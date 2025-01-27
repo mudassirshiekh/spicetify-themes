@@ -7,6 +7,7 @@ You can add your own theme simply by opening a Pull Request (more info in [CONTR
 ### **You can find a preview of all the themes in [THEMES.md](./THEMES.md).**
 
 ## Notes:
+## By Mudassir Alam
 
 *   **These themes require that you have the latest version of Spotify and Spicetify.**
 *   **To install Dribbblish and Turntable themes, follow the instructions in their READMEs**.
